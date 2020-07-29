@@ -13,4 +13,4 @@ def test(request):
 
 
 def sathis(request):
-    return "I am testing"
+    return HttpResponse("I am looking for merg conflicts")
