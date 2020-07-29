@@ -10,3 +10,7 @@ def test(request):
         it's just a sample view
     """
     return HttpResponse("welcome")
+
+
+def sathis(request):
+    return "I am testing"
