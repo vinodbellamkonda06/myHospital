@@ -12,5 +12,5 @@ def test(request):
     return HttpResponse("welcome")
 
 
-def sathis(request):
+def sathi(request):
     return "I am testing"
